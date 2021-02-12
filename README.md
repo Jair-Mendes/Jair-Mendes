@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens e Tecnologias: <br>
+  :rocket: Linguagens e Tecnologias: <br>
   <strong>Laravel, PHP, Bootstrap, HTML, CSS, JavaScript, JSON, MEAN Stack.</strong>
 </p>
 
